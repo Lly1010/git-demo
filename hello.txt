@@ -12,3 +12,4 @@ git pull
 admin push
 llyadmin3 modify
 ssh 免密登录
+aaaaaaaaaa
